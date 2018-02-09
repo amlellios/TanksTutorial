@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Alexis Lellios/Desktop/School/Fall 2017/Game Engine Scripting/UnityProjectThatI'mMovingToGitHub/Assets/theRoom.unity
+  isLoaded: 1
+  isActive: 1
